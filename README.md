@@ -31,10 +31,7 @@ git clone https://github.com/YosysHQ/yosys.git cd yosys sudo apt-get install bui
 
 ![yoy](https://github.com/maraputivishnusai/maraputivishnusai/assets/160378830/f9861c13-edc8-432d-8545-3228134550bf)
 
-
-
-
-
+![yoy1](https://github.com/maraputivishnusai/maraputivishnusai/assets/160378830/8b2a5e5c-f57c-4b2f-bb26-ef1a24b8612c)
 
 # iVerilog
 sudo apt-get install iverilog
