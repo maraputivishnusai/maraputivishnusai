@@ -1,5 +1,5 @@
 # A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board
-Task 1:
+# Task 1:
 
 install RISC-V GNU Toolchain
 
